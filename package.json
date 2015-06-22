@@ -1,0 +1,26 @@
+{
+  "name": "entipic.data",
+  "version": "0.0.1",
+  "description": "entipic data",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entipic/entipic.data.git"
+  },
+  "keywords": [
+    "entipic",
+    "data"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entipic/entipic.data/issues"
+  },
+  "homepage": "https://github.com/entipic/entipic.data",
+  "dependencies": {
+    "mongoose": "^4.0.2"
+  }
+}
