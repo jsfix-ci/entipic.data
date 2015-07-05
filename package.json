@@ -1,6 +1,6 @@
 {
   "name": "entipic.data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "entipic data",
   "main": "./lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/entipic/entipic.data",
   "dependencies": {
     "mongoose": "^4.0.2",
-    "entipic.core": "0.0.1",
-    "entipic.text": "0.0.1"
+    "entipic.core": "^0.0.1",
+    "entipic.text": "^0.0.1"
   }
 }
