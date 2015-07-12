@@ -1,3 +1,3 @@
 ## entipic data
 
-Entipic repository module
+Entipic repository module: MongoDB
