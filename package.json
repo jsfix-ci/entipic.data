@@ -23,6 +23,6 @@
   "dependencies": {
     "mongoose": "^4.0.2",
     "entipic.core": "^0.0.1",
-    "entipic.text": "^0.0.1"
+    "entipic.text": "^0.0.2"
   }
 }
