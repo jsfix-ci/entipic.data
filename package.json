@@ -4,7 +4,11 @@
   "description": "entipic data",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "./node_modules/mocha/bin/mocha",
+    "lint": "eslint ."
+  },
+  "engines": {
+    "node": ">=0.10.0"
   },
   "repository": {
     "type": "git",
@@ -22,7 +26,7 @@
   "homepage": "https://github.com/entipic/entipic.data",
   "dependencies": {
     "mongoose": "^4.0.2",
-    "entipic.core": "^0.0.1",
-    "entipic.text": "^0.0.2"
+    "entipic.core": "^0.0.2",
+    "entipic.text": "^0.0.3"
   }
 }
