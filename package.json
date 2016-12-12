@@ -1,6 +1,6 @@
 {
   "name": "entipic.data",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "entipic data",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "eslint ."
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4.0.0"
   },
   "repository": {
     "type": "git",
@@ -25,8 +25,9 @@
   },
   "homepage": "https://github.com/entipic/entipic.data",
   "dependencies": {
-    "mongoose": "^4.0.2",
-    "entipic.core": "^0.0.2",
-    "entipic.text": "^0.0.3"
+    "bluebird": "^3.4.6",
+    "lodash": "^4.17.2",
+    "mongoose": "^4.7.2",
+    "shortid": "^2.2.6"
   }
 }

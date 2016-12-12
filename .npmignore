@@ -1,0 +1,10 @@
+
+node_modules
+test
+
+README.md
+
+.gitignore
+.editorconfig
+.eslintrc
+.travis.yml
