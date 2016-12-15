@@ -1,6 +1,6 @@
 {
   "name": "entipic.data",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "entipic data",
   "main": "./lib/index.js",
   "scripts": {
